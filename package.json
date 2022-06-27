@@ -18,8 +18,8 @@
     "bot-md",
     "multi-device"
   ],
-  "base-author": "Xeon",
-  "author": "Sam,Fantox",
+  
+  "author": "Hridoy",
   "license": "MIT",
  "dependencies": {
  "@adiwajshing/baileys": "github:sampandey001/baileys",
